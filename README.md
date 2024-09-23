@@ -1,3 +1,5 @@
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO".
+
 - 👋 Hi, I’m @ajudaclick
 - 👀 I’m interested in tech, IA, Business
 - 🌱 I’m currently learning Cloud and Devops
